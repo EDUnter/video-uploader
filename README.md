@@ -19,4 +19,4 @@ The Video Uploader project is an API for uploading videos.
 
 ## License
 
-This project is under the MIT license. Open [LICENSE](LICENSE.md) archive to get more info
+This project is under the MIT license. Open [LICENSE](LICENSE) archive to get more info
